@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @YASHWANTHBH1
-- 👀 I’m interested in new things
-- 🌱 I’m currently learning be
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @YASHWANTHBH
+- 👀 I’m interested in Cloud computing and data science
+- 🌱 final year AI & DS student
+- 💞️ I’m looking to collaborate on cloud computing and data science
+- 📫 You can reach me through yashwanthbh382@gmail.com
 
 <!---
 YASHWANTHBH1/YASHWANTHBH1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
